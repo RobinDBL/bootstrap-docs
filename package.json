@@ -2,10 +2,11 @@
   "name": "bootstrap-docs",
   "displayName": "Bootstrap Documentation search",
   "author": "Robin Deblauwe",
-  "icon": "/resources/bootstrap.png",
+  "icon": "resources/bootstrap.png",
   "repository": "https://github.com/RobinDBL/bootstrap-docs",
   "description": "This extension allows the user to search the bootstrap documentation quickly from inside vscode. The official bootstrap documentation is opened after the search.",
   "version": "1.0.0",
+  "publisher": "RobinDeblauwe",
   "engines": {
     "vscode": "^1.70.0"
   },
